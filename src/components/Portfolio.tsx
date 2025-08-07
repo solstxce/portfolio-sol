@@ -630,7 +630,7 @@ export default function Portfolio() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold mb-8 text-white">Get In Touch</h2>
           <p className="text-xl text-gray-400 mb-8">
-            I'm always open to discussing new opportunities and interesting projects.
+            I&apos;m always open to discussing new opportunities and interesting projects.
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
